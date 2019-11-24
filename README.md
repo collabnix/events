@@ -1,5 +1,11 @@
 # List of Events 
 
+## December 2019
+
+| S. No | Date      | Name of Event   | Type of Event  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   14th Dec|  [AWSUGKOCHI - Meetup with Docker Captain](https://www.meetup.com/awsugkochi/events/266701010/) | Meetup | 150(Expected) |   
+
 ## November 2019
 
 
