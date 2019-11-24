@@ -14,7 +14,7 @@
 |1 |   23rd Nov|  [Docker Bangalore Meetup](https://events.docker.com/events/details/docker-bangalore-presents-meetup-49-docker-kubernetes-devops-tools-docker-intermediate-workshop/#/) | Meetup | 300 |       
 |2 |  21st Nov |  [Collabnix Online Webinar](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-integrated-log-analytics-monitoring-via-docker-containers-elastic-stack/#/) | Webinar | 100 |   
 |3 |  13th Nov  |  [Docker Dehradun Meetup](https://events.docker.com/events/details/docker-dehradun-presents-docker-dehradun-meetup-1-docker-kubernetes-container-security/)| Meetup | 50+ |     
-|4 |  6th Nov  |  Grace Hopper Celebration India | Conference | 5000+ |     
+|4 |  6th Nov  |  [Grace Hopper Celebration India](https://ghcindia.anitab.org/) | Conference | 5000+ |     
 
 ## October 2019
 
