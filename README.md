@@ -32,6 +32,7 @@
 | 1 |   14th Sep |  [Vellore University Visit](http://collabnix.com/docker-workshop-on-iot-university-of-petroleum-and-energy-studies-dehradun/) | Meetup(Organizer) | 100+ |  
 | 2 |   7th Sep  |  [Collabnix Online Webinar: Demystifying Container Networking](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) | Webinar(Organizer) | 80+ |  
 | 3 |   7th Sep  |  [Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/) | Meetup(Organizer) | 100+ |  
+| 4 |  7th Sep  |  [Docker Chandigarh Meetup #1 - Docker101 Workshop for Beginners](https://events.docker.com/events/details/docker-docker-chandigarh-presents-docker-chandigarh-meetup-1-docker101-workshop-for-beginners//) | Meetup(Organizer) | 100+ | 
 
 ## August 2019
 
