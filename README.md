@@ -45,6 +45,12 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 |   15th June |  [Dockercon 2019 SFO Recap & Announcements](https://events.docker.com/events/details/docker-bangalore-presents-dockercon-2019-sfo-recap-announcements/) | Meetup(Organizer) | 400+ |  
 
+## April 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   25th April |  [Joint Meetup with OpenFaaS & Microsoft Developer Group :Docker Desktop, K8s, CNAB & Serverless](https://events.docker.com/events/details/docker-bangalore-presents-joint-meetup-with-openfaas-microsoft-developer-group-docker-desktop-k8s-cnab-serverless/) | Meetup(Organizer) | 400+ |  
+
 ## March 2019
 
 |  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
