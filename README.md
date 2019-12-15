@@ -30,9 +30,11 @@
 |  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 |   14th Sep |  [Vellore University Visit](http://collabnix.com/docker-workshop-on-iot-university-of-petroleum-and-energy-studies-dehradun/) | Meetup(Organizer) | 100+ |  
-| 2 |   7th Sep  |  [Collabnix Online Webinar: Demystifying Container Networking](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) | Webinar(Organizer) | 80+ |  
-| 3 |   7th Sep  |  [Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/) | Meetup(Organizer) | 100+ |  
-| 4 |  7th Sep  |  [Docker Chandigarh Meetup #1 - Docker101 Workshop for Beginners](https://events.docker.com/events/details/docker-docker-chandigarh-presents-docker-chandigarh-meetup-1-docker101-workshop-for-beginners//) | Meetup(Organizer) | 100+ | 
+| 2 |  14th Sep  |  [Docker Hyderabad Meetup #19: Docker, Kubernetes, IoT + Docker101 WorkShop](https://events.docker.com/events/details/docker-hyderabad-presents-docker-hyderabad-meetup-19-docker-kubernetes-iot-docker101-workshop/) | Meetup(Organizer) | 100+ | 
+| 3 |   7th Sep  |  [Collabnix Online Webinar: Demystifying Container Networking](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) | Webinar(Organizer) | 80+ |  
+| 4 |   7th Sep  |  [Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/) | Meetup(Organizer) | 100+ |  
+| 5 |  7th Sep  |  [Docker Chandigarh Meetup #1 - Docker101 Workshop for Beginners](https://events.docker.com/events/details/docker-docker-chandigarh-presents-docker-chandigarh-meetup-1-docker101-workshop-for-beginners//) | Meetup(Organizer) | 150+ | 
+
 
 ## August 2019
 
