@@ -10,7 +10,7 @@
 ## November 2019
 
 
-| S. No | Date      | Name of Event   | Type of Event  | Audience Count |
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1 |   24th Nov|  [Docker Delhi Meetup](https://events.docker.com/events/details/docker-delhi-presents-docker-delhi-meetup-19-docker-kubernetes-workshop/) | Meetup(Co-Organizer) | 25+ |   
 |2 |   23rd Nov|  [Docker Bangalore Meetup](https://events.docker.com/events/details/docker-bangalore-presents-meetup-49-docker-kubernetes-devops-tools-docker-intermediate-workshop/#/) | Meetup(Organizer) | 300 |       
@@ -20,15 +20,40 @@
 
 ## October 2019
 
-| S. No | Date      | Name of Event   | Type of Event  | Audience Count |
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1 |   2nd Oct  |  [UPES Dehradun Meetup](http://collabnix.com/docker-workshop-on-iot-university-of-petroleum-and-energy-studies-dehradun/) | Meetup(Speaker) | 80+ |  
 
 
 ## September 2019
 
-|  S. No  | Date    | Name of Event   | Type of Event  | Audience Count |
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 |   14th Sep |  [Vellore University Visit](http://collabnix.com/docker-workshop-on-iot-university-of-petroleum-and-energy-studies-dehradun/) | Meetup(Organizer) | 100+ |  
 | 2 |   7th Sep  |  [Collabnix Online Webinar: Demystifying Container Networking](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-container-networking/) | Webinar(Organizer) | 80+ |  
 | 3 |   7th Sep  |  [Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/) | Meetup(Organizer) | 100+ |  
+
+## August 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   3rd Aug |  [Docker Bangalore Meetup #45 - Docker, Kubernete, IoT & Machine Learning](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-meetup-45-docker-kubernete-iot-machine-learning/) | Meetup(Organizer) | 400+ |  
+
+## June 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   15th June |  [Dockercon 2019 SFO Recap & Announcements](https://events.docker.com/events/details/docker-bangalore-presents-dockercon-2019-sfo-recap-announcements/) | Meetup(Organizer) | 400+ |  
+
+## March 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   30th March |  [Docker Bday #6: How do YOU #Docker? -- Bangalore Edition](https://events.docker.com/events/details/docker-bangalore-presents-docker-bday-6-how-do-you-docker-bangalore-edition/) | Meetup(Organizer) | 200+ | 
+
+
+## Jan 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   30th March |  [Joint Meetup with Kubernetes & OpenShift + CloudNativeCon Meetup Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-joint-meetup-with-kubernetes-openshift-cloudnativecon-meetup-group-of-bangalore/) | Meetup(Organizer) | 300+ | 
