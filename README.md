@@ -49,6 +49,13 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 |   15th June |  [Dockercon 2019 SFO Recap & Announcements](https://events.docker.com/events/details/docker-bangalore-presents-dockercon-2019-sfo-recap-announcements/) | Meetup(Organizer) | 400+ |  
 
+## May 2019
+
+|  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 |   21st May |  [My Journey from Docker Captain to Tips of Captain's Hat Award](https://www.slideshare.net/ajeetraina/my-journey-from-docker-captain-to-tips-of-captains-hat-award) | DellEMC Influencer Guest Speaker | 100+ | 
+
+
 ## April 2019
 
 |  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
