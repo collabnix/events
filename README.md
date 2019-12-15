@@ -62,4 +62,4 @@
 
 |  S. No  | Date    | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 |   30th March |  [Joint Meetup with Kubernetes & OpenShift + CloudNativeCon Meetup Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-joint-meetup-with-kubernetes-openshift-cloudnativecon-meetup-group-of-bangalore/) | Meetup(Organizer) | 300+ | 
+| 1 |   19th Jan |  [Joint Meetup with Kubernetes & OpenShift + CloudNativeCon Meetup Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-joint-meetup-with-kubernetes-openshift-cloudnativecon-meetup-group-of-bangalore/) | Meetup(Organizer) | 300+ | 
