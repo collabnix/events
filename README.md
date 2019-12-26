@@ -4,7 +4,7 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   21st Dec|  [AWSUGKOCHI - Meetup with Docker Captain](https://www.meetup.com/awsugkochi/events/266701010/) | Meetup(Speaker) | 150(Expected) |  
+|1 |   21st Dec|  [AWSUGKOCHI - Meetup with Docker Captain](https://www.meetup.com/awsugkochi/events/266701010/) | Meetup(Speaker) | 50 |  
 |2 |   14th Dec|  [Kubernetes Monitoring & Challenges: Sumo Logic Bengaluru User Group](http://collabnix.com/kubernetes-monitoring-best-practices-talk-at-sumo-logic-bengaluru-user-group/) | User Group(Speaker) | 230 |
 
 ## November 2019
