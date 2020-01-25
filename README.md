@@ -1,10 +1,18 @@
 # List of Events 
 
+
+## Feb 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   29th Feb|  [Meetup #51 - Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-kickstart-your-2020-container-journey-with-docker-kubernetes-kube101-workshop-contd/) | Meetup(Organizer) | - |  
+
+
 ## Jan 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   18th Jan|  [Meetup #50 - Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://events.docker.com/events/details/docker-bangalore-presents-meetup-50-kickstart-your-2020-container-journey-with-docker-kubernetes-kubernetes101-workshop/#/) | Meetup(Organizer) | 500 |  
+|1 |   18th Jan|  [Meetup #50 - Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://events.docker.com/events/details/docker-bangalore-presents-meetup-50-kickstart-your-2020-container-journey-with-docker-kubernetes-kubernetes101-workshop/#/) | Meetup(Organizer) | 550 |  
 
 
 
