@@ -1,6 +1,13 @@
 # List of Events 
 
 
+## April 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   25th April|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://events.docker.com/events/details/docker-bangalore-presents-open-source-community-conferenceosconf-an-online-virtual-event/#/) | Meetup(Organizer) | - |  
+
+
 ## Feb 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
