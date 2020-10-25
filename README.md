@@ -4,7 +4,7 @@
 
 ## Oct 2020
 
-| S. No | Date      | Name of Event   | Type of Event/Role  | YouTube  |
+| S. No |   Date   | Name of Event   | Type of Event/Role  | YouTube  | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Virtual Conference | [Link](https://www.youtube.com/watch?v=RVToPqD5VIA&t=9988s) |  
 
@@ -12,7 +12,7 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Virtual Conference | [link](https://www.youtube.com/watch?v=GtAouGq_7zQ&t=458s) |  
+|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Virtual Conference | [Link](https://www.youtube.com/watch?v=GtAouGq_7zQ&t=458s) |  
 
 
 
@@ -20,7 +20,7 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Virtual Conference | [link](https://www.youtube.com/watch?v=FCowKouwCE0&t=1947s) |  
+|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Virtual Conference | [Link](https://www.youtube.com/watch?v=FCowKouwCE0&t=1947s) |  
 
 
 ## May 2020
