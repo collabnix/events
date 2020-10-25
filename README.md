@@ -1,6 +1,34 @@
 # List of Events 
 
 
+
+## Oct 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   10th October|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
+
+## Aug 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   1st Aug|  [Meetup #52 - Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Meetup(Organizer) | - |  
+
+
+
+## June 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   27th June|  [Meetup #52 - Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Meetup(Organizer) | - |  
+
+
+## May 2020
+
+| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 |   16th May|  [Meetup #52 - Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) | Meetup(Organizer) | - |
+
 ## April 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
