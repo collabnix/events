@@ -6,7 +6,7 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   10th October|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
+|1 |   10th October|  [Meetup #52 - Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
 
 ## Aug 2020
 
