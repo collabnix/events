@@ -6,13 +6,13 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   10th October|  [Meetup #52 - Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
+|1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
 
 ## Aug 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   1st Aug|  [Meetup #52 - Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Meetup(Organizer) | - |  
+|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Meetup(Organizer) | - |  
 
 
 
@@ -20,14 +20,14 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   27th June|  [Meetup #52 - Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Meetup(Organizer) | - |  
+|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Meetup(Organizer) | - |  
 
 
 ## May 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   16th May|  [Meetup #52 - Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) | Meetup(Organizer) | - |
+|1 |   16th May|  [Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) | Meetup(Organizer) | - |
 
 ## April 2020
 
