@@ -4,15 +4,15 @@
 
 ## Oct 2020
 
-| S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
+| S. No | Date      | Name of Event   | Type of Event/Role  | YouTube  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Virtual Conference | - |  
+|1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Virtual Conference | [Link](https://www.youtube.com/watch?v=RVToPqD5VIA&t=9988s) |  
 
 ## Aug 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Virtual Conference | - |  
+|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Virtual Conference | [link](https://www.youtube.com/watch?v=GtAouGq_7zQ&t=458s) |  
 
 
 
@@ -20,27 +20,27 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Virtual Conference | - |  
+|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Virtual Conference | [link](https://www.youtube.com/watch?v=FCowKouwCE0&t=1947s) |  
 
 
 ## May 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   16th May|  [Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) |Virtual Conference | - |
+|1 |   16th May|  [Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) |Virtual Conference | [Link](https://www.youtube.com/watch?v=uHCyNTHZhKk) |
 
 ## April 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   25th April|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://events.docker.com/events/details/docker-bangalore-presents-open-source-community-conferenceosconf-an-online-virtual-event/#/) |Virtual Conference | - |  
+|1 |   25th April|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://events.docker.com/events/details/docker-bangalore-presents-open-source-community-conferenceosconf-an-online-virtual-event/#/) |Virtual Conference |[Link](https://www.youtube.com/watch?v=CDcj_2Ip_-U&t=1927s) |  
 
 
 ## Feb 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   29th Feb|  [Meetup #51 - Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-kickstart-your-2020-container-journey-with-docker-kubernetes-kube101-workshop-contd/) | Meetup(Organizer) | - |  
+|1 |   29th Feb|  [Meetup #51 - Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-kickstart-your-2020-container-journey-with-docker-kubernetes-kube101-workshop-contd/) | Meetup(Organizer) | [Link](https://www.youtube.com/watch?v=jhfx8LM3HTE&t=4s) |  
 
 
 ## Jan 2020
