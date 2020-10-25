@@ -6,13 +6,13 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Meetup(Organizer) | - |  
+|1 |   10th October|  [ Open Source Community Conference(OSCONF) Jaipur - An Online Virtual Event](https://osconf-jaipur.collabnix.com) | Virtual Conference | - |  
 
 ## Aug 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Meetup(Organizer) | - |  
+|1 |   1st Aug|  [ Open Source Community Conference(OSCONF) Hyderabad - An Online Virtual Event](https://osconfhyd.collabnix.com/) | Virtual Conference | - |  
 
 
 
@@ -20,20 +20,20 @@
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Meetup(Organizer) | - |  
+|1 |   27th June|  [ Open Source Community Conference(OSCONF) Kochi - An Online Virtual Event](https://osconf-kochi.collabnix.com/) | Virtual Conference | - |  
 
 
 ## May 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   16th May|  [Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) | Meetup(Organizer) | - |
+|1 |   16th May|  [Open Source Community Conference(OSCONF) Pune - An Online Virtual Event](https://osconf.collabnix.com/) |Virtual Conference | - |
 
 ## April 2020
 
 | S. No | Date      | Name of Event   | Type of Event/Role  | Audience Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 |   25th April|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://events.docker.com/events/details/docker-bangalore-presents-open-source-community-conferenceosconf-an-online-virtual-event/#/) | Meetup(Organizer) | - |  
+|1 |   25th April|  [Meetup #52 - Open Source Community Conference(OSCONF) - An Online Virtual Event](https://events.docker.com/events/details/docker-bangalore-presents-open-source-community-conferenceosconf-an-online-virtual-event/#/) |Virtual Conference | - |  
 
 
 ## Feb 2020
